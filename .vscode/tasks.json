@@ -11,6 +11,11 @@
 			"problemMatcher": [],
 			"label": "java (build): Build Workspace",
 			"detail": "$(tools) Build all the Java projects in workspace."
-		}
+		},
+		{
+            "label": "build",
+            "type": "shell",
+            "command": "./gradlew build"
+        },
 	]
 }

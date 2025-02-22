@@ -17,7 +17,7 @@
 	// "forwardPorts": [],
 
 	// Use 'postCreateCommand' to run commands after the container is created.
-	"postCreateCommand": "gradle init --type java-application",
+	"postCreateCommand": "gradle init --type java-application"
 
 	// Configure tool-specific properties.
 	// "customizations": {},
