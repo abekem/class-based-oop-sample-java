@@ -1,4 +1,4 @@
-package oop.sample;
+package oop.sample.encapsulation;
 
 import java.util.ArrayList;
 import java.util.Collections;

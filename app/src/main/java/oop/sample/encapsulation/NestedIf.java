@@ -1,4 +1,4 @@
-package oop.sample;
+package oop.sample.encapsulation;
 
 public class NestedIf {
     public static void nestedIf() {

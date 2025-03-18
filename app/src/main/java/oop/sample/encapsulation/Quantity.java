@@ -1,4 +1,4 @@
-package oop.sample;
+package oop.sample.encapsulation;
 
 class Quantity {
     static final int MIN = 1;

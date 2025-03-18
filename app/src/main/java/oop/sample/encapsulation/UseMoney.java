@@ -1,4 +1,4 @@
-package oop.sample;
+package oop.sample.encapsulation;
 
 import java.math.BigDecimal;
 
